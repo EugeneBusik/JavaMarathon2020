@@ -6,7 +6,6 @@ public class Task4 {
         while (year <= 2020) {
             System.out.println("Олимпиада " + year + " года");
             year = year + 4;
-
         }
     }
 }

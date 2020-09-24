@@ -7,6 +7,5 @@ public class Task3 {
             System.out.println("Java");
             value = value + 1;
         }
-
     }
 }
